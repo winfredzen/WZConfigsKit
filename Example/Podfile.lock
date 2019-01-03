@@ -1,0 +1,16 @@
+PODS:
+  - WZConfigsKit (0.1.0)
+
+DEPENDENCIES:
+  - WZConfigsKit (from `../`)
+
+EXTERNAL SOURCES:
+  WZConfigsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZConfigsKit: 30d6c9107f358db101973a17e08ee06dd1b39904
+
+PODFILE CHECKSUM: ba9833c414ba7a1a5629a7815012183f6bad5548
+
+COCOAPODS: 1.5.3
